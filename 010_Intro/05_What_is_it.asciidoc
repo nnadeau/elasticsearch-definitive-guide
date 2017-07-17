@@ -7,7 +7,7 @@ library.((("Apache Lucene")))((("Lucene")))  Lucene is arguably the most advance
 search engine library in existence today--both open source and proprietary.
 
 But Lucene is just a library. To leverage its power, you need to work in Java
-and to integrate Lucene directly with your application. Worse, you will likely
+to integrate Lucene directly with your application. Worse, you will likely
 require a degree in information retrieval to understand how it works.  Lucene
 is _very_ complex.
 
